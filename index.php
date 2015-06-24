@@ -9,7 +9,7 @@
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src=" https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="/js/scripts.js" type="text/javascript" charset="utf-8"></script>
+        <script src="js/scripts.js" type="text/javascript" charset="utf-8"></script>
        
     </head>
     <body>
