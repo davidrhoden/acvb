@@ -1,8 +1,9 @@
-
-
+body {
+	background: url(../img/ACVBpagemockup.jpg) left top no-repeat;
+}
 #wrapper {
 	font-family: 'Roboto', sans-serif;
- 	margin: 0 auto;
+ 	margin:540px 0 20px 670px;
  	width: 650px; 
  }
 

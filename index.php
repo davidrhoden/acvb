@@ -44,6 +44,7 @@
 <div id="result">
 <p class="showResult">What's my perfect taco?</p>
 </div>
+<img src="img/footerads.jpg" alt="footer ads">
 </div>
 
     </body>

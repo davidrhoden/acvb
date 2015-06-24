@@ -11,11 +11,11 @@ resultFour = "<h2>Torchy’s Tacos</h2>You’ve elected Torchy’s as President 
 
 
 function turnBlue(){
-	
-    //$( this ).toggleClass( "selected" );
+
     select = $(this);
     thisid = select.attr('id');
     thisrel = select.attr('rel');
+    thisgroup = select.attr('group');
     
   	
   	$('.answer').not(select).removeClass("selected");
