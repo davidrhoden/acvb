@@ -3,5 +3,55 @@
 #wrapper {
 	font-family: 'Roboto', sans-serif;
  	margin: 0 auto;
- 	width: 800px; 
+ 	width: 650px; 
  }
+
+ .answer {
+ 	background: #f2f2f2;
+ 	 	border: 2px solid #d8d8d8;
+ 	border-radius: 6px 6px 6px 6px;
+-moz-border-radius: 6px 6px 6px 6px;
+-webkit-border-radius: 6px 6px 6px 6px;
+	display: block;
+	padding: 6px;
+ }
+
+ .answer:hover {
+ 	background: #FFF6A8;
+ 	cursor: pointer;
+ }
+
+.answer.selected {
+	background: #8ac5ff;
+}
+
+ .q {font-weight: bold; }
+
+ .answer .quiz_checkbox:before {
+	font-family: "FontAwesome";
+    content: "\f096";
+    font-size: 15px;
+    line-height: 21px;
+    color: #3d3d3d;
+    margin: 0 8px 0 0;
+}
+
+ .answer.selected .quiz_checkbox:before {
+    content: "\f046";
+     margin: 0 6px 0 0;
+}
+
+#result {
+	margin: 30px auto 100px;
+	width: 400px;
+}
+
+.showResult {
+	background: #FF244C;
+	color: white;
+	cursor: pointer;
+	font-size: 24px;
+	padding: 20px;
+	text-align: center;
+	
+}
