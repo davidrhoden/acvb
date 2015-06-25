@@ -1,4 +1,4 @@
-var points, select, thisid, thisrel, currentAnswer, newpoints, resultOne, resultTwo, resultThree, ResultFour;
+var points, select, thisid, thisrel, choices, resultOne, resultTwo, resultThree, ResultFour;
 points = 0;
 
 resultOne = "<h2>Fork &amp; Taco</h2>Oh you fancy huh? Get your taste buds ready to dive into Asian Pear Chicken and Thai Grouper tacos, just make sure to use your dinner fork. Because tacos with a dessert fork – that’s just weird.";
@@ -13,17 +13,32 @@ resultFour = "<h2>Torchy’s Tacos</h2>You’ve elected Torchy’s as President 
 function turnBlue(){
 
     select = $(this);
+    a1answers = $('.answer.a1');
     thisid = select.attr('id');
     thisrel = select.attr('rel');
     thisgroup = select.attr('group');
     
-  	
-  	$('.answer').not(select).removeClass("selected");
+  	if (select.hasClass("a1")) {
+  	$('.answer.a1').not(select).removeClass("selected");
   	select.toggleClass( "selected" );
-    points = parseInt(+points + thisrel);
+    } else if (select.hasClass("a2")) {
+  	$('.answer.a2').not(select).removeClass("selected");
+  	select.toggleClass( "selected" );
+    } else if (select.hasClass("a3")) {
+  	$('.answer.a3').not(select).removeClass("selected");
+  	select.toggleClass( "selected" ); 
+  	} else if (select.hasClass("a4")) {
+  	$('.answer.a4').not(select).removeClass("selected");
+  	select.toggleClass( "selected" );
+  	}
 }
 
 function showResult(){
+ 	choices = $(".selected");
+	choices.each(function() {
+         points += parseInt($(this).attr("rel"));
+    });
+
 	if (points<=6) {
 		$('#result').html(resultOne);
 	} else if (points>=6 && points<=9) {

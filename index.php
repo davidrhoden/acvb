@@ -17,28 +17,28 @@
         <h1>Quiz: Find your perfect Austin taco</h1>
 
 <p class="q">Question 1: Your personal taco philosophy is:</p>
-<p id="a1" rel="1" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	The fanciest, fusioniest, most gourmet ingredients I can find.</p>
-<p id="a2" rel="2" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	Fresh. Simple. YUM.</p>
-<p id="a3" rel="3" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Customization. Every taco should be constructed to my taste bud’s desires.</p>
-<p id="a4" rel="4" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Big and messy. Load ‘em up and sauce ‘em down.</p>
+<p rel="1" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	The fanciest, fusioniest, most gourmet ingredients I can find.</p>
+<p rel="2" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	Fresh. Simple. YUM.</p>
+<p rel="3" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Customization. Every taco should be constructed to my taste bud’s desires.</p>
+<p rel="4" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Big and messy. Load ‘em up and sauce ‘em down.</p>
 
 <p class="q">Question 2: How do you eat a taco?</p>
-<p id="a5" rel="1" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	I’m not a savage, I use a knife and fork.</p>
-<p id="a6" rel="2" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	With my hands wrapped around a CORN tortilla.</p>
-<p id="a7" rel="3" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	With my hands wrapped around a FLOUR tortilla.</p>
-<p id="a8" rel="4" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Like this: nom-nom-nom-nom-nom.</p>
+<p rel="1" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	I’m not a savage, I use a knife and fork.</p>
+<p rel="2" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	With my hands wrapped around a CORN tortilla.</p>
+<p rel="3" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	With my hands wrapped around a FLOUR tortilla.</p>
+<p rel="4" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Like this: nom-nom-nom-nom-nom.</p>
 
 <p class="q">Question 3: It’s Taco Time! You:</p>
 <p rel="1" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	Get gussied up for a fancy taco dinner date for two.</p>
-<p rel="1" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	Commune (and consume) out of doors with like-minded taco tasters.</p>
-<p rel="1" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Fire up Netflix – these tacos are getting delivered to me!</p>
-<p rel="1" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Speed to my favorite taco place – no time to waste.</p>
+<p rel="2" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	Commune (and consume) out of doors with like-minded taco tasters.</p>
+<p rel="3" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Fire up Netflix – these tacos are getting delivered to me!</p>
+<p rel="4" class="answer a3"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Speed to my favorite taco place – no time to waste.</p>
 
 <p class="q">Question 4: Do you love tacos?</p>
 <p rel="1" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	Yes, I’d marry them if I could. Wait, can I?</p>
-<p rel="1" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	Yep. I &lt;3 tacos.</p>
-<p rel="1" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Of course. And I’m offended you even asked.</p>
-<p rel="1" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	No. (Just kidding, of course I do. TACOS!!!)</p>
+<p rel="2" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> B.	Yep. I &lt;3 tacos.</p>
+<p rel="3" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Of course. And I’m offended you even asked.</p>
+<p rel="4" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	No. (Just kidding, of course I do. TACOS!!!)</p>
 <h2 id="yourtaco">Your perfect taco is...</h2>
 
 <div id="result">
