@@ -20,7 +20,7 @@ function turnBlue(){
   	
   	$('.answer').not(select).removeClass("selected");
   	select.toggleClass( "selected" );
-    points = parseInt(points*1 + thisrel);
+    points = parseInt(+points + thisrel);
 }
 
 function showResult(){
