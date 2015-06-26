@@ -37,6 +37,16 @@ body {
     margin: 0 8px 0 0;
 }
 
+.fa.fa-facebook-official, .fa.fa-twitter-square {
+	font-size: 24px;
+	margin: 0 4px;
+	color: blue;
+}
+
+.fa.fa-facebook-official:hover, .fa.fa-twitter-square:hover {
+	color: #5A55FF;
+}
+
  .answer.selected .quiz_checkbox:before {
     content: "\f046";
      margin: 0 6px 0 0;
