@@ -9,7 +9,7 @@
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src=" https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="js/scripts.js" type="text/javascript" charset="utf-8"></script>
+        <script src="js/musicscripts.js" type="text/javascript" charset="utf-8"></script>
        
     </head>
     <body>
@@ -23,7 +23,8 @@
 <p rel="4" class="answer a1"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Simple. If it’s good, I like it. If not, I don’t.</p>
 
 <p class="q">Question 2: It’s show time! You put on your best _____:</p>
-<p rel="1" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	Cowboy boots. And don’t forget the pearl snap shirt.</p>B.	Band t-shirt. (But not the band you’re seeing, because that’s just weird.).</p>
+<p rel="1" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> A.	Cowboy boots. And don’t forget the pearl snap shirt.</p>
+<p rel="2" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span>B.	Band t-shirt. (But not the band you’re seeing, because that’s just weird.).</p>
 <p rel="3" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span>C.	Comfortable but attractive outfit. Gotta look good and feel good.</p>
 <p rel="4" class="answer a2"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Threads. It’s time for a high-class night on the town.</p>
 
@@ -38,7 +39,7 @@
 <p rel="2" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span>B.	Whatever 5+5 adds up to.</p>
 <p rel="3" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> C.	Probably a 4. Maybe a 6. OH WAIT – IT’S A 10!</p>
 <p rel="4" class="answer a4"><span class="quiz_checkbox quiz-checkbox fa-square-o"></span> D.	Ten. T-E-N. And I’m insulted by the question.</p>
-<h2 id="yourtaco">Your perfect taco is...</h2>
+<h2 id="yourtaco">Your new favorite Austin music venue is...</h2>
 
 <div id="result">
 <p class="showResult">What's my new favorite Austin music venue?</p>
