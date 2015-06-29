@@ -1,11 +1,9 @@
 var points, select, thisid, thisrel, choices, resultOne, resultTwo, resultThree, ResultFour;
 points = 0;
 
-resultOne = "<h2>Continental Club</h2><p>Ready for a new take on old school? Giddy up on down to SoCo and get ready for the best of rockabilly, country and swing at this legendary Austin hot spot for country cool.
-</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+resultOne = "<h2>Continental Club</h2><p>Ready for a new take on old school? Giddy up on down to SoCo and get ready for the best of rockabilly, country and swing at this legendary Austin hot spot for country cool.</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
 
-resultTwo = "<h2>Emo’s</h2><p>Get ready to rock on Riverside. Or dance. Or mosh. Or cry (What? It’s called Emo’s). And do all of that with a hot, up-and-coming act that you’ll be able to say you saw “way back when.”
-</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+resultTwo = "<h2>Emo’s</h2><p>Get ready to rock on Riverside. Or dance. Or mosh. Or cry (What? It’s called Emo’s). And do all of that with a hot, up-and-coming act that you’ll be able to say you saw “way back when.”</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
 
 resultThree = "<h2>Stubbs</h2><p>It’s the big outdoor venue for the biggest bands of the day. After the show, you and your 2,000 new friends can wash down that ear candy with some mouth candy, aka Stubb’s delish BBQ. Yum.</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
 
