@@ -1,13 +1,23 @@
 var points, select, thisid, thisrel, choices, resultOne, resultTwo, resultThree, ResultFour;
 points = 0;
 
-resultOne = "<h2>Fork &amp; Taco</h2><p>Oh you fancy huh? Get your taste buds ready to dive into Asian Pear Chicken and Thai Grouper tacos, just make sure to use your dinner fork. Because tacos with a dessert fork – that’s just weird.</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+resultOne = "<h2>Continental Club</h2><p>
+Ready for a new take on old school? Giddy up on down to SoCo and get ready for the best of rockabilly, country and swing at this legendary Austin hot spot for country cool.
+</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
 
-resultTwo = "<h2>Rositas Taco</h2><p>You like your tacos fresh, tasty and as authentic as they come. Next time you’re in town, get ready for the best food truck taco you’ve ever jammed down your mouth hole. </p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+resultTwo = "<h2>Emo’s</h2><p>
 
-resultThree = "<h2>Taco Deli</h2><p>You’re headed to the deli! Don’t worry, no sandwiches (or tortas) here. Just classic – and completely delicious – Austin tacos. Pro tip: accessorize with plenty of the legendary green sauce. </p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+Get ready to rock on Riverside. Or dance. Or mosh. Or cry (What? It’s called Emo’s). And do all of that with a hot, up-and-coming act that you’ll be able to say you saw “way back when.”
+</p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
 
-resultFour = "<h2>Torchy’s Tacos</h2><p>You’ve elected Torchy’s as President of Austin Tacos. But whether your mouth votes Democrat or Republican (those are both taco names), you’re sure to go home happy. </p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+resultThree = "<h2>Stubbs</h2><p>
+
+It’s the big outdoor venue for the biggest bands of the day. After the show, you and your 2,000 new friends can wash down that ear candy with some mouth candy, aka Stubb’s delish BBQ. Yum.
+ </p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
+
+resultFour = "<h2>ACL Live</h2><p>
+
+You’ve seen it on TV, you’ve heard about it for years, and now you’re there. The intimate venue that hosts the best music TV show and the coolest bands on the planet. Soak it in. You’ll love it. </p><hr><p>Share this quiz! <i class=\"fa fa-facebook-official\"></i><i class=\"fa fa-twitter-square\"></i></p>";
 
 
 function turnBlue(){
