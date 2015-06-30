@@ -14,6 +14,8 @@
     </head>
     <body>
     <div id="wrapper">
+       <div class="sidebar"></div>
+    <div class="quiz">
         <h1>Quiz: Find your perfect Austin taco</h1>
 
 <p class="q">Question 1: Your personal taco philosophy is:</p>
@@ -46,6 +48,6 @@
 </div>
 <img src="img/footerads.jpg" alt="footer ads">
 </div>
-
+</div>
     </body>
 </html>
