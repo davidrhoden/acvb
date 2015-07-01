@@ -1,6 +1,11 @@
 body {
 	background: url(../img/ACVBpagetopper.jpg) center top no-repeat;
 }
+
+body.music {
+	background: url(../img/ACVBpagetoppermusic.jpg) center top no-repeat;
+}
+
 #wrapper {
 	font-family: 'Roboto', sans-serif;
  	margin:465px auto 20px;
@@ -73,6 +78,10 @@ body {
 	margin-right: 15px;
 	width: 350px;
 	/*outline: 2px dashed red;*/
+}
+
+.sidebar.music {
+	background: url(../img/sidebarmusic.jpg) center top no-repeat;
 }
 
 .quiz {

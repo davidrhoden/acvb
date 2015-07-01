@@ -12,11 +12,11 @@
         <script src="js/musicscripts.js" type="text/javascript" charset="utf-8"></script>
        
     </head>
-    <body>
+    <body class="music">
     <div id="wrapper">
-    <div class="sidebar"></div>
+    <div class="sidebar music"></div>
     <div class="quiz">
-    <img src="img/pagehead.jpg" alt="page head">
+    <img src="img/pageheadmusic.jpg" alt="page head">
         <h1>Quiz: Find your new favorite Austin music venue </h1>
 
 <p class="q">Question 1: Your music tastes are best summed up as:</p>
