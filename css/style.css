@@ -77,7 +77,6 @@ body.music {
 	height: 1700px;
 	margin-right: 15px;
 	width: 350px;
-	/*outline: 2px dashed red;*/
 }
 
 .sidebar.music {
@@ -87,5 +86,13 @@ body.music {
 .quiz {
 	float: left;
 	width: 650px;
-/*	outline: 2px dashed green;
-*/}
+}
+
+@media only screen and (max-width: 767px) {
+    body body.music {
+	background: url(../img/mobilesidebar.jpg) center top no-repeat;
+}
+.sidebar, .sidebar.music {
+	display: none;
+}
+}
