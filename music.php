@@ -47,7 +47,7 @@
 <div id="result">
 <p class="showResult">What's my new favorite Austin music venue?</p>
 </div>
-<img src="img/footerads.jpg" alt="footer ads">
+<img class="footerads" src="img/footerads.jpg" alt="footer ads">
 </div>
 </div>
 

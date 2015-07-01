@@ -89,10 +89,27 @@ body.music {
 }
 
 @media only screen and (max-width: 767px) {
-    body body.music {
+    body, body.music {
 	background: url(../img/mobilesidebar.jpg) center top no-repeat;
 }
 .sidebar, .sidebar.music {
+	display: none;
+}
+.quiz {
+  float: none;
+  margin: 0 auto;
+  width: 98%;
+}
+#wrapper {
+ 	margin: 470px auto 0;
+ 	width: 100%; 
+ }
+
+ #result {
+	margin: 10px auto;
+	width: 90%;
+}
+.footerads {
 	display: none;
 }
 }
